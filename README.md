@@ -1,4 +1,4 @@
 tomfaulhaber.github.com
 =======================
 
-My github pages site.
+There's really nothing here yet. I just wanted a place to stash stuff.
